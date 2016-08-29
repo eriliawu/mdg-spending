@@ -6,4 +6,4 @@ Stata do file;
 The final paper;
 Important visualization;
 
-The original dataset is not uploaded since we are not authorized the share outside of the team
+The original dataset is not uploaded since I am not authorized the share outside of the team
